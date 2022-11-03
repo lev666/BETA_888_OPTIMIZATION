@@ -1,2 +1,2 @@
-# BETA_888_OPTIMIZATION
-Beta channel modulo 888 optimization
+# Beta_EcoSaver888
+Beta channel module 888 optimization
